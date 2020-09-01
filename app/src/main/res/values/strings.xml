@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SlideShowヤフーニュース</string>
+    <string name="top_news_url">https://news.yahoo.co.jp</string>
+    <string name="pick_up_news_url">https://news.yahoo.co.jp/pickup/</string>
+    <string name="action_restart">再開</string>
+    <string name="action_stop">一時停止</string>
+    <string name="tap_event">スクリーンタップを検知しました。スライドショーを停止します。</string>
+    <string name="stop_event">スライドショー：停止</string>
+    <string name="restart_event">スライドショー：再開</string>
+    <string name="go_setting">設定</string>
+    <string name="detail_setting">設定する秒数を入力してください。3秒以下の場合は3秒。</string>
+    <string name="back">戻る</string>
+    <string name="ok">設定</string>
+
+</resources>
